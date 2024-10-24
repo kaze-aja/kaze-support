@@ -10,5 +10,5 @@ async function tnyim(url) {
         }
     }
 
-//module.exports = { tnyim }
+module.exports = { tnyim }
 //Contoh Penggunaan return tnyim('https://tanakasenn.com'
